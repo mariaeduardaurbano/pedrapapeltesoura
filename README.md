@@ -106,8 +106,3 @@ xdg-open index.html # Linux
 
 Feito com 💜 por **mariaeduardaurbano**! Sinta-se à vontade para melhorar, compartilhar e se divertir.
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
