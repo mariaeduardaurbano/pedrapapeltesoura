@@ -2,7 +2,7 @@
 
 > A versão expandida do clássico Pedra, Papel e Tesoura — agora com 5 elementos e muito mais estratégia!
 
-![Preview do jogo](./images/logogame.png)
+![Preview do jogo](./images/tela.png)
 
 ---
 
